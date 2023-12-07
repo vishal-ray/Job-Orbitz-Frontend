@@ -1,0 +1,45 @@
+.taskorbitbg{
+    background-color: #2A679C !important;
+}
+
+.taskorbit-text{
+    color: #2A679C !important;
+}
+
+.taskorbit-text-wh{
+    color: white !important;
+}
+
+
+.btn-primary{
+    background-color: #2A679C !important;
+}
+
+.btn-outline-primary{
+    color:#2A679C !important;
+    border-color:#2A679C !important;
+}
+.btn-outline-primary:hover
+{
+    color:#fff !important;
+    background-color:#2A679C !important;
+    border-color:#2A679C !important;
+}
+
+
+@media (max-width: 999px) {
+    .card-body {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .card-body > div {
+      width: 100%;
+    }
+  
+    .card-body > div:last-child {
+      margin-top: 10px;
+    }
+  }
+  
+  
